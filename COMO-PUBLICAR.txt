@@ -16,3 +16,9 @@ V4:
 - avaliações Google refinadas
 - SEO atualizado para a URL atual
 - melhorias mobile e footer
+
+V4.1:
+- "Mais procurados" alterado para "Destaques do catálogo".
+- Headline dos destaques reescrita em tom mais natural.
+- Legendas da galeria revisadas para descrever melhor cada foto.
+- Forro modular identificado explicitamente como instalação em andamento.
