@@ -1,26 +1,18 @@
-L&A FORROS — SITE V3 (GITHUB PAGES SAFE)
+L&A FORROS — V4
+Publique todos os arquivos na raiz do repositório.
+GitHub Pages: main / (root)
+URL usada no SEO: https://jvdesiign.github.io/LeA-Forros-de-PVC/
 
-1. Extraia o ZIP.
-2. Entre na pasta extraída.
-3. Envie TODOS os arquivos para a raiz do repositório.
-4. index.html, logo.webp e todas as imagens .webp devem aparecer na mesma tela do GitHub.
-5. Em Settings > Pages:
-   Source: Deploy from a branch
-   Branch: main
-   Folder: / (root)
-6. Aguarde o deploy terminar e atualize com Ctrl+F5.
+Quando entrar domínio próprio, substitua essa URL em index.html, robots.txt e sitemap.xml.
 
-IMPORTANTE SOBRE SEO:
-Antes de usar domínio próprio, troque https://www.seudominio.com.br/
-em index.html, robots.txt e sitemap.xml pelo endereço real do site.
-
-V3:
-- paleta azul-marinho + azul-claro + branco, amarelo só em detalhes;
-- hero com fotos reais;
-- catálogo com preços e filtros;
-- cards 3D;
-- galeria extensa de obras reais;
-- antes/depois interativo com medidas;
-- avaliações com fotos/avatares fornecidos;
-- textos em primeira pessoa;
-- CSS e JavaScript dentro do index.html para reduzir erros no GitHub Pages.
+V4:
+- WhatsApp personalizado por produto
+- produtos em destaque
+- modal de detalhes
+- cards 3D refinados
+- guia de acabamentos
+- antes/depois mantido
+- galeria com filtros + lightbox
+- avaliações Google refinadas
+- SEO atualizado para a URL atual
+- melhorias mobile e footer
