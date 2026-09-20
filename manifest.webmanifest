@@ -1,0 +1,16 @@
+{
+  "name": "L&A Forros",
+  "short_name": "L&A Forros",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#15263f",
+  "theme_color": "#15263f",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
