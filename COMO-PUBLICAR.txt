@@ -1,17 +1,9 @@
-L&A FORROS — V5.5 REFINADO
+L&A FORROS — V5.6 CURADO
 
-Correções desta versão:
-- removeu duplicações desnecessárias;
-- agrupou variações dentro do mesmo produto;
-- restaurou 2 imagens também na seção inferior;
-- removeu o texto de “alterações” da primeira seção.
-
-Publicação:
 1. Apague os arquivos antigos do repositório.
 2. Extraia este ZIP.
 3. Envie TODOS os arquivos da pasta extraída para a raiz do repositório.
-4. Deve existir apenas 1 index.html.
-5. Faça o commit.
-6. Abra:
-   https://jvdesiign.github.io/LeA-Forros-de-PVC/?v=55
+4. Confirme que existe apenas 1 index.html na raiz.
+5. Faça commit e aguarde o GitHub Pages publicar.
+6. Abra o site usando: https://jvdesiign.github.io/LeA-Forros-de-PVC/?v=56
 7. Use Ctrl + F5 uma vez.
