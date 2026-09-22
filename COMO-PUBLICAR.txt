@@ -1,18 +1,32 @@
-L&A FORROS — V5.2 GITHUB SAFE
+L&A FORROS — V5.3 COMPLETA
 
-IMPORTANTE: apague os arquivos da versão antiga do repositório antes de enviar esta versão.
+ESTA VERSÃO SUBSTITUI V5.2.
 
-1. Baixe e EXTRAIA o ZIP.
-2. Entre na pasta extraída.
-3. Selecione TODOS os arquivos de dentro dela.
-4. No GitHub, abra o repositório LeA-Forros-de-PVC.
-5. Apague os arquivos antigos.
-6. Envie todos os novos arquivos para a RAIZ do repositório.
-7. O index.html deve ficar na mesma tela que v52_logo.webp, v52_loja.webp etc.
-8. Faça o commit.
-9. Aguarde o Pages terminar o deploy.
-10. Abra o site com ?v=52 no final uma vez:
-    https://jvdesiign.github.io/LeA-Forros-de-PVC/?v=52
+ANTES DE ENVIAR:
+1. No GitHub, apague TODOS os arquivos antigos do repositório.
+2. Não deixe index(2).html ou qualquer index antigo.
+3. Extraia este ZIP no computador.
+4. Envie TODOS os arquivos de dentro da pasta extraída para a RAIZ do repositório.
+5. Deve existir APENAS UM index.html.
+6. Aguarde o GitHub Pages concluir o deploy.
+7. Abra:
+   https://jvdesiign.github.io/LeA-Forros-de-PVC/?v=53
+8. Use Ctrl+F5 uma vez.
 
-Esta versão usa nomes de arquivos v52_... para impedir que o navegador reutilize imagens antigas em cache.
-CSS e JavaScript estão dentro do index.html.
+A V5.3 contém:
+- catálogo novo produto + aplicação;
+- hover no PC;
+- swipe para cima no celular;
+- orçamento personalizado no WhatsApp;
+- acessórios;
+- antes/depois;
+- galeria completa de obras;
+- filtros de obras;
+- lightbox;
+- 10 avaliações;
+- fotos de perfil;
+- loja física;
+- redes sociais;
+- FAQ;
+- SEO atual;
+- CSS e JavaScript dentro do index.html.
