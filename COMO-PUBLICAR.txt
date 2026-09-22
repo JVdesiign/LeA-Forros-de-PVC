@@ -1,32 +1,20 @@
-L&A FORROS — V5.3 COMPLETA
+L&A FORROS — V5.4 CATALOGO AJUSTADO
 
-ESTA VERSÃO SUBSTITUI V5.2.
+Esta versão foca em:
+- melhorar nomes;
+- corrigir preços;
+- ampliar o catálogo;
+- trocar "R$ 0,00" por "Consultar com a loja".
 
-ANTES DE ENVIAR:
-1. No GitHub, apague TODOS os arquivos antigos do repositório.
-2. Não deixe index(2).html ou qualquer index antigo.
-3. Extraia este ZIP no computador.
-4. Envie TODOS os arquivos de dentro da pasta extraída para a RAIZ do repositório.
-5. Deve existir APENAS UM index.html.
-6. Aguarde o GitHub Pages concluir o deploy.
-7. Abra:
-   https://jvdesiign.github.io/LeA-Forros-de-PVC/?v=53
-8. Use Ctrl+F5 uma vez.
+Como publicar:
+1. Apague os arquivos antigos do repositório.
+2. Extraia este ZIP.
+3. Envie TODOS os arquivos da pasta extraída para a raiz do repositório.
+4. Deve existir apenas 1 index.html.
+5. Faça o commit.
+6. Após o deploy, abra:
+   https://jvdesiign.github.io/LeA-Forros-de-PVC/?v=54
+7. Use Ctrl + F5 uma vez.
 
-A V5.3 contém:
-- catálogo novo produto + aplicação;
-- hover no PC;
-- swipe para cima no celular;
-- orçamento personalizado no WhatsApp;
-- acessórios;
-- antes/depois;
-- galeria completa de obras;
-- filtros de obras;
-- lightbox;
-- 10 avaliações;
-- fotos de perfil;
-- loja física;
-- redes sociais;
-- FAQ;
-- SEO atual;
-- CSS e JavaScript dentro do index.html.
+Observação:
+Alguns produtos usam imagens representativas da mesma linha porque não havia uma foto individual melhor para cada variação.
