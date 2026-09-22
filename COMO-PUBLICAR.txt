@@ -1,20 +1,17 @@
-L&A FORROS — V5.4 CATALOGO AJUSTADO
+L&A FORROS — V5.5 REFINADO
 
-Esta versão foca em:
-- melhorar nomes;
-- corrigir preços;
-- ampliar o catálogo;
-- trocar "R$ 0,00" por "Consultar com a loja".
+Correções desta versão:
+- removeu duplicações desnecessárias;
+- agrupou variações dentro do mesmo produto;
+- restaurou 2 imagens também na seção inferior;
+- removeu o texto de “alterações” da primeira seção.
 
-Como publicar:
+Publicação:
 1. Apague os arquivos antigos do repositório.
 2. Extraia este ZIP.
 3. Envie TODOS os arquivos da pasta extraída para a raiz do repositório.
 4. Deve existir apenas 1 index.html.
 5. Faça o commit.
-6. Após o deploy, abra:
-   https://jvdesiign.github.io/LeA-Forros-de-PVC/?v=54
+6. Abra:
+   https://jvdesiign.github.io/LeA-Forros-de-PVC/?v=55
 7. Use Ctrl + F5 uma vez.
-
-Observação:
-Alguns produtos usam imagens representativas da mesma linha porque não havia uma foto individual melhor para cada variação.
