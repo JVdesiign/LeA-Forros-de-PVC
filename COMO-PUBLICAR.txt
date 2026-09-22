@@ -1,24 +1,18 @@
-L&A FORROS — V4
-Publique todos os arquivos na raiz do repositório.
-GitHub Pages: main / (root)
-URL usada no SEO: https://jvdesiign.github.io/LeA-Forros-de-PVC/
+L&A FORROS — V5.2 GITHUB SAFE
 
-Quando entrar domínio próprio, substitua essa URL em index.html, robots.txt e sitemap.xml.
+IMPORTANTE: apague os arquivos da versão antiga do repositório antes de enviar esta versão.
 
-V4:
-- WhatsApp personalizado por produto
-- produtos em destaque
-- modal de detalhes
-- cards 3D refinados
-- guia de acabamentos
-- antes/depois mantido
-- galeria com filtros + lightbox
-- avaliações Google refinadas
-- SEO atualizado para a URL atual
-- melhorias mobile e footer
+1. Baixe e EXTRAIA o ZIP.
+2. Entre na pasta extraída.
+3. Selecione TODOS os arquivos de dentro dela.
+4. No GitHub, abra o repositório LeA-Forros-de-PVC.
+5. Apague os arquivos antigos.
+6. Envie todos os novos arquivos para a RAIZ do repositório.
+7. O index.html deve ficar na mesma tela que v52_logo.webp, v52_loja.webp etc.
+8. Faça o commit.
+9. Aguarde o Pages terminar o deploy.
+10. Abra o site com ?v=52 no final uma vez:
+    https://jvdesiign.github.io/LeA-Forros-de-PVC/?v=52
 
-V4.1:
-- "Mais procurados" alterado para "Destaques do catálogo".
-- Headline dos destaques reescrita em tom mais natural.
-- Legendas da galeria revisadas para descrever melhor cada foto.
-- Forro modular identificado explicitamente como instalação em andamento.
+Esta versão usa nomes de arquivos v52_... para impedir que o navegador reutilize imagens antigas em cache.
+CSS e JavaScript estão dentro do index.html.
