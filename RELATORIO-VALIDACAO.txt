@@ -1,0 +1,27 @@
+L&A FORROS — RELATÓRIO DE VALIDAÇÃO V6.0
+
+Produtos cadastrados: 23
+Referências locais faltantes: 0
+Imagens de catálogo fora do padrão 1200 × 900: 0
+Pares de imagens suspeitos de duplicação: 0
+IDs HTML duplicados: 0
+Quantidade de H1: 1
+Links target=_blank sem rel=noopener: 0
+Frases internas/de desenvolvimento encontradas: 0
+JavaScript com sintaxe válida: SIM
+Erros de parsing CSS: 0
+Todas as imagens dos produtos existem: SIM
+
+Detalhes:
+Referências faltantes: []
+Dimensões incorretas: []
+Pares suspeitos: []
+IDs duplicados: []
+Frases internas encontradas: []
+Erro JS: 
+Erros CSS: []
+
+
+AUDITORIA VISUAL FINAL
+Recortes refinados novamente: Cerejeira, Teto Vinílico, Painel Ripado, Placas Vinílicas e Portas Sanfonadas.
+Imagens fora de 1200 × 900 após refinamento: []

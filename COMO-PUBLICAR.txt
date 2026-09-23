@@ -1,16 +1,12 @@
 L&A FORROS — V6.0 PROFISSIONAL
 
-Esta versão padroniza o catálogo visualmente e corrige enquadramento/qualidade sem alterar o conteúdo real dos produtos.
-
 PUBLICAÇÃO
-1. Apague/substitua os arquivos atuais do repositório.
-2. Extraia este ZIP.
-3. Envie TODOS os arquivos de dentro da pasta extraída para a raiz do repositório.
-4. Deve existir somente um index.html.
-5. Aguarde o GitHub Pages finalizar o deploy.
-6. Abra: https://jvdesiign.github.io/LeA-Forros-de-PVC/?v=60
-7. Use Ctrl + F5 uma vez.
+1. Extraia este ZIP.
+2. Substitua TODOS os arquivos da versão anterior pelos arquivos deste pacote.
+3. Confirme que existe somente um index.html na raiz.
+4. Aguarde o GitHub Pages finalizar o deploy.
+5. Abra:
+   https://jvdesiign.github.io/LeA-Forros-de-PVC/?v=60
+6. Use Ctrl + F5 uma vez.
 
-IMPORTANTE
-- Não envie apenas o ZIP para o GitHub Pages.
-- Não mantenha index(2).html, index(3).html etc.
+O arquivo RELATORIO-VALIDACAO.txt contém a checagem técnica feita antes da entrega.
