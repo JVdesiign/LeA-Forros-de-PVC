@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+<title id="title">Emenda H em PVC branco</title>
+<desc id="desc">Representação técnica de um perfil de emenda tipo H em PVC branco.</desc>
+<defs>
+  <linearGradient id="top" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#dfe7ec"/></linearGradient>
+  <linearGradient id="side" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dfe7ec"/><stop offset="1" stop-color="#bcc9d1"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#27445b" flood-opacity=".16"/></filter>
+</defs>
+<rect width="1200" height="900" fill="#f6f9fb"/>
+<g filter="url(#shadow)" transform="translate(110 190)">
+  <polygon points="70,220 780,70 1010,150 300,300" fill="url(#top)" stroke="#d0dbe2" stroke-width="4"/>
+  <polygon points="70,360 780,210 1010,290 300,440" fill="url(#top)" stroke="#d0dbe2" stroke-width="4"/>
+  <polygon points="270,294 300,300 300,440 270,434" fill="url(#side)"/>
+  <polygon points="780,70 812,82 812,222 780,210" fill="url(#side)"/>
+  <polygon points="300,300 780,198 812,210 300,312" fill="#edf2f5"/>
+  <polygon points="300,428 812,320 812,290 300,398" fill="#c7d2d9" opacity=".7"/>
+</g>
+<g transform="translate(905 625)">
+  <path d="M0 0h115v26H71v58h44v26H0V84h44V26H0z" fill="#0b315c" opacity=".9"/>
+  <text x="57" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#4e687c">PERFIL H</text>
+</g>
+</svg>

@@ -1,14 +1,16 @@
-L&A FORROS — V5.9 CORREÇÕES PONTUAIS
+L&A FORROS — V6.0 PROFISSIONAL
 
-Correções desta versão:
-- Portas sanfonadas: segunda imagem trocada por uma foto real de porta instalada.
-- Rodapé de poliestireno: removida a segunda imagem duplicada; agora o card usa uma única imagem.
-- Emenda H: imagem corrigida para a peça correspondente do catálogo.
+Esta versão padroniza o catálogo visualmente e corrige enquadramento/qualidade sem alterar o conteúdo real dos produtos.
 
-PUBLICAÇÃO:
-1. Extraia este ZIP.
-2. Substitua os arquivos da versão anterior pelos arquivos desta pasta.
-3. Aguarde o GitHub Pages finalizar o deploy.
-4. Abra:
-   https://jvdesiign.github.io/LeA-Forros-de-PVC/?v=59
-5. Use Ctrl + F5 uma vez.
+PUBLICAÇÃO
+1. Apague/substitua os arquivos atuais do repositório.
+2. Extraia este ZIP.
+3. Envie TODOS os arquivos de dentro da pasta extraída para a raiz do repositório.
+4. Deve existir somente um index.html.
+5. Aguarde o GitHub Pages finalizar o deploy.
+6. Abra: https://jvdesiign.github.io/LeA-Forros-de-PVC/?v=60
+7. Use Ctrl + F5 uma vez.
+
+IMPORTANTE
+- Não envie apenas o ZIP para o GitHub Pages.
+- Não mantenha index(2).html, index(3).html etc.

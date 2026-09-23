@@ -1,0 +1,11 @@
+L&A FORROS — AUDITORIA V6.0
+
+- Todos os cards do catálogo usam área de imagem 4:3.
+- Todas as imagens raster novas do catálogo foram padronizadas em 1200×900 px.
+- Forro junta seca agora possui imagem real do produto; o placeholder de texto foi removido.
+- Emenda H usa representação técnica vetorial em alta resolução, evitando a foto incorreta/baixa qualidade.
+- Porta sanfonada usa modelos + foto real instalada, sem imagens duplicadas.
+- Rodapé de poliestireno usa uma única imagem, sem duplicação artificial.
+- Preço da meia-cana muda conforme a variante selecionada.
+- Hover/troca de imagem atua apenas dentro da área da imagem.
+- 404, robots e sitemap revisados.
