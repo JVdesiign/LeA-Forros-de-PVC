@@ -1,0 +1,26 @@
+L&A FORROS — V5.9.1 CIRÚRGICA
+
+Base preservada: V5.9 aprovada.
+
+ÚNICAS ALTERAÇÕES DE PRODUTO:
+1. Forro PVC liso junta seca 8 mm
+   - substituído o placeholder/texto por uma ilustração técnica vetorial nítida;
+   - mantido o mesmo card, texto, preço, medidas e layout.
+
+2. Emenda H
+   - substituída somente a imagem de baixa resolução;
+   - nova ilustração vetorial do perfil H;
+   - mantidos texto, preço, botão, card e layout.
+
+VERIFICAÇÕES:
+- CSS alterado: NÃO
+- Outros produtos alterados: NÃO
+- Hero alterada: NÃO
+- Obras alteradas: NÃO
+- Avaliações alteradas: NÃO
+- Rodapé alterado: NÃO
+- Arquivos faltando: 0
+- JavaScript válido: SIM
+- Produtos com registro alterado: forro-junta-seca, emenda-h
+
+Nenhuma outra imagem foi redimensionada, recortada, recomprimida ou substituída.

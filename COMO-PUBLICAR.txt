@@ -1,12 +1,12 @@
-L&A FORROS — V6.0 PROFISSIONAL
+L&A FORROS — V5.9.1 CIRÚRGICA
 
-PUBLICAÇÃO
-1. Extraia este ZIP.
-2. Substitua TODOS os arquivos da versão anterior pelos arquivos deste pacote.
-3. Confirme que existe somente um index.html na raiz.
-4. Aguarde o GitHub Pages finalizar o deploy.
-5. Abra:
-   https://jvdesiign.github.io/LeA-Forros-de-PVC/?v=60
-6. Use Ctrl + F5 uma vez.
+Esta versão volta à V5.9 aprovada e altera SOMENTE:
+- imagem do Forro PVC liso junta seca 8 mm;
+- imagem da Emenda H.
 
-O arquivo RELATORIO-VALIDACAO.txt contém a checagem técnica feita antes da entrega.
+PUBLICAÇÃO:
+1. Extraia o ZIP.
+2. Substitua os arquivos do repositório pelos arquivos deste pacote.
+3. Confirme que existe apenas um index.html na raiz.
+4. Aguarde o GitHub Pages concluir.
+5. Abra o site e use Ctrl + F5 uma vez.
