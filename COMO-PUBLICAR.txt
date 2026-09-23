@@ -1,12 +1,13 @@
-L&A FORROS — V5.9.1 CIRÚRGICA
+L&A FORROS — V5.9.2 RECUPERADA FINAL
 
-Esta versão volta à V5.9 aprovada e altera SOMENTE:
-- imagem do Forro PVC liso junta seca 8 mm;
-- imagem da Emenda H.
+Esta versão é a V5.9 aprovada com APENAS duas correções:
+- Forro PVC liso junta seca 8 mm
+- Emenda H
 
 PUBLICAÇÃO:
 1. Extraia o ZIP.
-2. Substitua os arquivos do repositório pelos arquivos deste pacote.
-3. Confirme que existe apenas um index.html na raiz.
-4. Aguarde o GitHub Pages concluir.
-5. Abra o site e use Ctrl + F5 uma vez.
+2. Envie os arquivos extraídos para a raiz do repositório.
+3. Confirme que existe apenas um index.html.
+4. Faça o commit.
+5. Aguarde o GitHub Pages finalizar.
+6. Abra o site e use Ctrl + F5 uma vez.

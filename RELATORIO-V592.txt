@@ -1,0 +1,39 @@
+L&A FORROS — V5.9.2 RECUPERADA FINAL
+
+BASE UTILIZADA
+V5.9 aprovada.
+
+ESCOPO EXATO
+Somente dois produtos tiveram a imagem corrigida:
+1. Forro PVC liso junta seca 8 mm
+2. Emenda H
+
+FORRO PVC LISO JUNTA SECA 8 MM
+- Imagem: foto real enviada no catálogo da própria L&A Forros.
+- Arquivo de origem: WhatsApp Image 2026-09-21 at 21.23.29.jpeg.
+- Alteração feita na imagem: somente recorte da interface do celular e textos sobrepostos.
+- Não foi gerado ou redesenhado nenhum produto.
+- O card mantém tamanho, posição, CSS, textos, preço e botões da V5.9.
+
+EMENDA H
+- A única imagem da loja disponível era uma miniatura de catálogo de baixíssima resolução.
+- Ela NÃO foi ampliada artificialmente.
+- NÃO foi criada imagem 3D.
+- Foi usada fotografia real de uma Emenda H branca de 6 m.
+- Referência visual: Perfil H Bariri Emenda H Branco 6m.
+- Fonte da foto: Construbel / images.tcdn.com.br.
+- O card mantém tamanho, posição, CSS, textos, preço e botões da V5.9.
+
+VALIDAÇÃO
+CSS global idêntico ao da V5.9: SIM
+Outras imagens aprovadas modificadas: NÃO
+Outros arquivos aprovados modificados: NÃO
+Produtos alterados no JSON: forro-junta-seca, emenda-h
+Arquivos locais faltando: 0
+IDs HTML duplicados: 0
+H1: 1
+JavaScript válido: SIM
+
+OBSERVAÇÃO TÉCNICA
+O modal usa object-fit: contain apenas nesses dois produtos, para impedir zoom e corte.
+Nenhum outro produto teve o comportamento visual alterado.
